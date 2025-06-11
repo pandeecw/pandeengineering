@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>Pande Engineering and Construction</title>
+  <script src="https://cdn.tailwindcss.com"></script>
+</head>
+<body class="font-sans text-gray-800">
+  <!-- Hero Section -->
+  <header class="bg-blue-900 text-white p-8 text-center">
+    <h1 class="text-4xl font-bold">Pande Engineering and Construction Work</h1>
+    <p class="mt-2 text-lg">Based in Rohtas, Bihar | Working under SBDCL</p>
+  </header>
+
+  <!-- About Us -->
+  <section class="p-6 bg-gray-100">
+    <h2 class="text-2xl font-bold mb-4">About Us</h2>
+    <p>
+      Pande Engineering and Construction Work is a trusted civil construction company operating from Rohtas, Bihar. We specialize in government infrastructure projects and proudly operate under the State Building Development Corporation Limited (SBDCL). With years of expertise and a strong local presence, we deliver high-quality, durable, and timely construction services.
+    </p>
+  </section>
+
+  <!-- Services -->
+  <section class="p-6">
+    <h2 class="text-2xl font-bold mb-4">Our Services</h2>
+    <ul class="list-disc list-inside space-y-2">
+      <li>Government Building Construction</li>
+      <li>Road and Bridge Development</li>
+      <li>Public Utility Infrastructure</li>
+      <li>Site Management and Supervision</li>
+      <li>Material Procurement and Supply</li>
+    </ul>
+  </section>
+
+  <!-- Projects -->
+  <section class="p-6 bg-gray-100">
+    <h2 class="text-2xl font-bold mb-4">Recent Projects</h2>
+    <ul class="list-disc list-inside space-y-2">
+      <li>District Hospital Renovation - Sasaram</li>
+      <li>Rural School Buildings - Chainpur Block</li>
+      <li>Road Construction - Dehri to Nokha stretch</li>
+    </ul>
+  </section>
+
+  <!-- Contact Info -->
+  <section class="p-6">
+    <h2 class="text-2xl font-bold mb-4">Contact Us</h2>
+    <p><strong>Address:</strong> Pande Engineering, Rohtas, Bihar - 821311</p>
+    <p><strong>Email:</strong> contact@pandeengineering.in</p>
+    <p><strong>Phone:</strong> +91-XXXXXXXXXX</p>
+  </section>
+
+  <!-- Footer -->
+  <footer class="bg-blue-900 text-white text-center p-4">
+    &copy; 2025 Pande Engineering and Construction Work. All rights reserved.
+  </footer>
+</body>
+</html>
