@@ -1,0 +1,6 @@
+<head>
+  <meta name="description" content="Pande Engineering and Construction Work in Rohtas, Bihar. SBDCL projects.">
+  <meta name="keywords" content="Pande Engineering, Construction Rohtas, SBDCL Bihar, Civil Engineering">
+  <meta name="author" content="Pande Engineering and Construction">
+  <title>Pande Engineering and Construction Work</title>
+</head>
